@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/**
+/*
  * Stateless widgets only take data as input (optional!) and render a new widget tree
  */
 class ProductControl extends StatelessWidget {
